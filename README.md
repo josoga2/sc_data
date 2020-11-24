@@ -1,2 +1,2 @@
 # sc_data
-# single cell py
+# single cell adaptation for Gtex py
